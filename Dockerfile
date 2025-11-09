@@ -1,5 +1,5 @@
-# Use official Java 17 runtime
-FROM openjdk:17-jdk-slim
+# Use official Java 17 runtime (Temurin image works perfectly on Render)
+FROM eclipse-temurin:17-jdk-jammy
 
 # Set working directory
 WORKDIR /app
