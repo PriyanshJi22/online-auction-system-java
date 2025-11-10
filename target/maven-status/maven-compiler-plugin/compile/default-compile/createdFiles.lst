@@ -16,6 +16,7 @@ com/auction/repository/UserRepository.class
 com/auction/dto/RegisterRequest.class
 com/auction/service/AuctionService.class
 com/auction/controller/AuctionController.class
+com/auction/controller/ApiInfoController.class
 com/auction/dto/BidRequest.class
 com/auction/config/DataInitializer.class
 com/auction/controller/AuthController.class
